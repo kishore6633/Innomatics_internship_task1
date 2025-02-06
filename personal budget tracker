@@ -63,63 +63,63 @@
             <td>$300</td>
             <td>Groceries for the week</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Transportation</td>
             <td>$200</td>
             <td>Monthly bus pass</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Entertainment</td>
             <td>$80</td>
             <td>Cinema tickets</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Salary</td>
             <td>$4000</td>
             <td>Monthly salary payment</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Savings</td>
             <td>$600</td>
             <td>Emergency fund deposit</td>
             <td>Pending</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Utilities</td>
             <td>$150</td>
             <td>Electricity bill</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td> <button>Delete</button></td>
         </tr>
         <tr>
             <td>Water</td>
             <td>$50</td>
             <td>Water bill</td>
             <td>Pending</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td><button>Delete</button></td>
         </tr>
         <tr>
             <td>Housing</td>
             <td>$1200</td>
             <td>Monthly rent</td>
             <td>Completed</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td> <button>Delete</button></td>
         </tr>
         <tr>
             <td>Maintenance</td>
             <td>$300</td>
             <td>Maintenance fee</td>
             <td>Pending</td>
-            <td><button>Edit</button> <button>Delete</button></td>
+            <td> <button>Delete</button></td>
         </tr>
     </table>
     <center><hr></center>
